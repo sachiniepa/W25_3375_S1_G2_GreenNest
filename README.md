@@ -11,7 +11,7 @@ Student Names, IDs and emails:
 ===============================================================
 Sachini Epa	      |  300381972	    | epas@student.douglascollege.ca
 Theodora Amodu	  |  300371625	    | amodut@student.douglascollege.ca
-Frederick Okornoe |		              | okornoef@student.douglascollege.ca
+Frederick Okornoe |	 300373397      | okornoef@student.douglascollege.ca
 
 
 
