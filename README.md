@@ -17,11 +17,12 @@ Product Description:
 GreenNest is a smart, user-friendly mobile app designed to help individuals reduce their carbon footprint and embrace a more eco-conscious lifestyle. Through personalized insights, real-time progress tracking, and engaging community challenges, GreenNest empowers users to make meaningful changes—one habit at a time. Whether you're just beginning your sustainability journey or looking to level up your impact, GreenNest adapts to your lifestyle, offering tailored eco-tips, goal setting, and rewards for consistent action. Track your daily carbon impact, unlock badges for milestones, and connect with a like-minded community working toward a greener planet.
 
 Key Features:
-Carbon Footprint Tracker
-Personalized Eco-tips
-Gamification
-Sustainability Events
-Educational Resources
+1. Carbon Footprint Tracker
+2. Personalized Eco-tips
+3. Gamification
+4. Sustainability Events
+5. Educational Resources
+6. Marketplace
 
 Figma: https://www.figma.com/proto/WhbL1XVHUZjxDwQPofKq6p/W25_3375_S1_G2_GreenNest?node-id=0-1&t=sDyR790uy6aJkuSS-1
 
